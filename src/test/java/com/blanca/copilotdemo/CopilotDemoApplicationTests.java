@@ -1,4 +1,4 @@
-package com.blanca.copilot_demo;
+package com.blanca.copilotdemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

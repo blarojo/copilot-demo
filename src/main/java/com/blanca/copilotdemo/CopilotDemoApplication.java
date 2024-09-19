@@ -1,4 +1,4 @@
-package com.blanca.copilot_demo;
+package com.blanca.copilotdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
